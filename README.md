@@ -1,2 +1,2 @@
 ### ⚡ Hi there 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=338AF7&width=500&lines=System.out.println(%22hello+world%22);Keep+Calm+and+Make+Epic+Shit" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=338AF7&width=500&lines=System.out.println(%22hello+world%22);Keep+Calm+and+Make+Epic+Shit;%E5%96%82%EF%BC%81%E4%B8%89%E7%82%B9%E5%87%A0%E5%95%A6%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%E5%81%9A%E5%95%8A%EF%BC%8C%E9%A5%AE%E8%8C%B6%E5%85%88%E5%95%A6%EF%BC%81" alt="Typing SVG" /></a>
